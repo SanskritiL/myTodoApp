@@ -13,7 +13,7 @@ state={
     {
       id: 2,
       title: 'Go to bank',
-      completed: false
+      completed: true
     },
     {
       id: 3,
